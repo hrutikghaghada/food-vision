@@ -10,6 +10,8 @@ I have used three pretrained models EfficientnetB0, EfficientnetB4 and Efficient
 
 All of the three models have been fine tuned by unfreezing all the layers.
 
+<div align="center">
+
 | Models | Loss | Accuracy |
 | ------ | ---- | -------- |
 | EfficientNetB7_fine_tune | 0.772 | 0.841 |
@@ -19,6 +21,6 @@ All of the three models have been fine tuned by unfreezing all the layers.
 | EfficientNetB4_feature_extraction | 1.196 | 0.681 |
 | EfficientNetB7_feature_extraction | 1.209 | 0.675 |
 
-<i>Table comparing accuracy and loss of different models on the test dataset</i>
+<i>Table comparing accuracy and loss of different models on the test dataset</i></div>
 
-Tensorboard link: https://tensorboard.dev/experiment/3IOc29c8QNGGjRrmOjK9cg/
+You can view the training results of the models on [Tensorboard](https://tensorboard.dev/experiment/3IOc29c8QNGGjRrmOjK9cg/).
