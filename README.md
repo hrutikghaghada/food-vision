@@ -24,3 +24,5 @@ All of the three models have been fine tuned by unfreezing all the layers.
 <i>Table comparing accuracy and loss of different models on the test dataset</i></div>
 
 You can view the training results of the models on [Tensorboard](https://tensorboard.dev/experiment/3IOc29c8QNGGjRrmOjK9cg/).
+
+You can access all the trained models [here](https://drive.google.com/drive/folders/1oVryuptgSuaB-K9sez8N5b1tj4qmp8-k?usp=share_link).
