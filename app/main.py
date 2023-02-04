@@ -70,3 +70,7 @@ def predict():
         print(result)
         return result
     return None
+
+
+if __name__ == "__main__":
+    app.run(host='0.0.0.0')
