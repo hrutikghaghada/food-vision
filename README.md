@@ -2,6 +2,8 @@
  
 This project is based on Food101 dataset.
 
+You can access the application [here](http://food-vision.eastus.cloudapp.azure.com/).
+
 The dataset contains 1000 images per 101 classes. 
 
 The split is 750 images for training and 250 images for testing per class.
